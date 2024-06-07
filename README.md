@@ -1,6 +1,8 @@
 # Ride-Share App
 Overview
 🚗 This project is a ride-sharing app built using Flutter, Firebase, and Node.js. It offers two primary modes: passenger and driver, allowing users to seamlessly switch between them. Below are the main features and functionalities of the app:
+![project](https://github.com/abhishekmishra06/Ride_Application/assets/96921829/775a9971-38c1-4926-9119-85fb95406ae8)
+
 
 ## Features
 1. Passenger Mode
